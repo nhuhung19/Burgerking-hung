@@ -38,8 +38,8 @@ h1 {
 }
 
 .background-img {
-    background: url(https://company.bk.com/sites/all/themes/custom/bk_theme/img/bg/aboutBK-bg.png);
-    background-image: url(https://company.bk.com/sites/all/themes/custom/bk_theme/img/bg/aboutBK-bg.png);
+    background: url(./aboutBK-bg.png);
+    background-image: url(./aboutBK-bg.png);
     background-position-x: initial;
     background-position-y: initial;
     background-size: initial;

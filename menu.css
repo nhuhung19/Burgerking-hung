@@ -41,6 +41,7 @@ section img {
     height: 316px;
     transition: width, height;
     transition-duration: 0.5s;
+    transition-delay: 0.1s;
 }
 
 section .row {
